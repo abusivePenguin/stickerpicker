@@ -1,7 +1,12 @@
 {
   "packs": [
     "florkofcows_23_by_demybot.json",
-    "p_4SqrC64i8suVijJAzBRU_by_SigStick16Bot.json"
+    "p_4SqrC64i8suVijJAzBRU_by_SigStick16Bot.json",
+    "p_jtDBBazK0l4UAztn1Ts0_by_SigStick21Bot.json",
+    "p_nuwChUZujdbxvJn40kv9_by_SigStick29Bot.json",
+    "p_5D74XtUZ50MNi8pdZ7eM_by_SigStick27Bot.json",
+    "p_fInegCcBFxxQpTvl51aO_by_SigStick41Bot.json",
+    "p_T7X2jqixJpKa9kwGRyUz_by_SigStick6Bot.json"
   ],
   "homeserver_url": "http://localhost:8008"
 }
