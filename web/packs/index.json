@@ -1,0 +1,6 @@
+{
+  "packs": [
+    "florkofcows_23_by_demybot.json"
+  ],
+  "homeserver_url": "http://localhost:8008"
+}
