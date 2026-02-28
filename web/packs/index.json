@@ -1,6 +1,7 @@
 {
   "packs": [
-    "florkofcows_23_by_demybot.json"
+    "florkofcows_23_by_demybot.json",
+    "p_4SqrC64i8suVijJAzBRU_by_SigStick16Bot.json"
   ],
   "homeserver_url": "http://localhost:8008"
 }
